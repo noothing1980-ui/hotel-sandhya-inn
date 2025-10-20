@@ -1,1 +1,1 @@
-# hotel-sandhya-inn
+# hotelsandhyainn
